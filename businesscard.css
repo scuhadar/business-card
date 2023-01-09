@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    margin: 10px 20px 30px 40px;
+    font-family: Arial,Verdana,Tahoma,sans-serif;
+}
+
+.foto {
+    width: 150;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #388697;
+    color: #271033;
+    border-bottom: 8px solid #fffd77;
+    border-radius: 10px 100px / 120px;
+    box-shadow: 10px 5px 5px red;
+  }
